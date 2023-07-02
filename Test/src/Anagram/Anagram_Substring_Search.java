@@ -1,4 +1,4 @@
-package Anagram;
+package src.Anagram;
 
 public class Anagram_Substring_Search {
 
